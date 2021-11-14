@@ -8,6 +8,7 @@
 >
 </search-home>
 
+
 <div class="container home p-4">
     <h1 class="p-2">Le mete più gettonate:</h1>
     <div class="row box-wrap">
